@@ -713,7 +713,7 @@ global.rpg = {
   }
 }
 
-//------ JANGAN DIUBAH -----
+//------ JANGAN DIUBAH ---.--
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
   unwatchFile(file)
